@@ -1,5 +1,5 @@
 # The-Amazon-Prime-Clone
-Amazon-Prime-App Clone,   I took Youtube reference to create this clone I want to thank Dipesh for you kind help
+Amazon-Prime-App Clone,  took Youtube reference to create this clone I want to thank Dipesh for you kind help
 
 
 
